@@ -1,6 +1,7 @@
 # Crypto Dashboard
 
-![Crypto Dashboard](dashboard_screenshot.png)
+![final](https://github.com/samyaksgupta/CryptoCurrent/assets/127541694/4a35009d-8850-4b2d-8353-408583671c14)
+
 
 ## Overview
 
